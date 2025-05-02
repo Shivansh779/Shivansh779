@@ -15,7 +15,8 @@ Hi there, I’m Shivansh Singh 👋
 
 🛠️ Projects I’ve Worked On
 
-	•	Console-based Applications like:
+	Console-based Applications like (in Java):
+ 
 	•	Calculator
 	•	Task Manager
 	•	Student Management System
@@ -24,6 +25,7 @@ Hi there, I’m Shivansh Singh 👋
 	•	Number Guessing Game
 	•	Bank Application
 	•	Transaction Manager
+ 	•	Library Management
 
 📚 Currently Learning
 
