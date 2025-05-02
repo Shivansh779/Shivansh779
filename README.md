@@ -33,10 +33,6 @@ Hi there, I’m Shivansh Singh 👋
 	•	Building solid foundations in Python and Java
 	•	Preparing for AI/ML journey with NumPy, Pandas, TensorFlow, and more!
 
-✨ Fun Fact
-
-	•	Besides coding, I love anime, and enjoy creating my own worldbuilding and technique systems for storytelling!
-
 📫 How to Reach Me
 
 	•	📩 Email: shivansh.coder12@gmail.com
