@@ -10,7 +10,7 @@ Hi there, I’m Shivansh Singh 👋
 
 	•	Languages: Java (Intermediate), Python (Beginner in Progress)
 	•	Core Concepts: OOPs, Exception Handling, File I/O, Basic Data Structures
-	•	Tools: IntelliJ IDEA, VS Code, Git, GitHub
+	•	Tools: IntelliJ IDEA CE, VS Code, PyCharm CE, Git, GitHub
 	•	Other Interests: Data Science, Machine Learning, Backend Development
 
 🛠️ Projects I’ve Worked On
