@@ -3,19 +3,19 @@ Hi there, I’m Shivansh Singh 👋
 🚀 About Me
 
 	•	I’m currently a student in 8th standard, passionate about coding and building creative projects.
-	•	I specialize in Java (beginner to intermediate level) and am diving into Python to pursue my dreams in AI/ML.
+	•	I specialize in Java (intermediate level) and have experience and continue to progress in Python to pursue my dreams in AI/ML.
 	•	I love solving problems, building applications, and continuously pushing my limits through learning.
 
 🔥 Skills
 
-	•	Languages: Java (Intermediate), Python (Beginner in Progress)
+	•	Languages: Java (Intermediate), Python (Beginner)
 	•	Core Concepts: OOPs, Exception Handling, File I/O, Basic Data Structures
 	•	Tools: IntelliJ IDEA CE, VS Code, PyCharm CE, Git, GitHub
 	•	Other Interests: Data Science, Machine Learning, Backend Development
 
 🛠️ Projects I’ve Worked On
 
-	Console-based Applications like (in Java):
+	Console-based Applications like (in both languages):
  
 	•	Calculator
 	•	Task Manager
@@ -29,7 +29,6 @@ Hi there, I’m Shivansh Singh 👋
 
 📚 Currently Learning
 
-	•	Python Crash Course by Eric Matthes
 	•	Building solid foundations in Python and Java
 	•	Preparing for AI/ML journey with NumPy, Pandas, TensorFlow, and more!
 
