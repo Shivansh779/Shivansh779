@@ -20,13 +20,13 @@ Hi there, I’m Shivansh Singh 👋
 	•	Calculator
 	•	Task Manager
 	•	Student Management System
-	•	Stone Paper Scissors Game
+	•	Games like Stone, Paper, Scissors; Number Guessing
 	•	Password Generator
-	•	Number Guessing Game
 	•	Bank Application
-	•	Transaction Manager
  	•	Library Management
 
+	GUI application:
+	•	Alien Invasion Game in Python
 📚 Currently Learning
 
 	•	Building solid foundations in Python and Java
