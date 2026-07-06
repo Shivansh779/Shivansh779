@@ -2,7 +2,7 @@ Hi there, I’m Shivansh Singh 👋
 
 🚀 About Me
 
-	•	I’m currently a student in 8th standard, passionate about coding and building creative projects.
+	•	I’m currently a student in 9th standard, passionate about coding and building creative projects.
 	•	I specialize in Java (intermediate level) and have experience and continue to progress in Python to pursue my dreams in AI/ML.
 	•	I love solving problems, building applications, and continuously pushing my limits through learning.
 
