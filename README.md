@@ -8,10 +8,9 @@ Hi there, I’m Shivansh Singh 👋
 
 🔥 Skills
 
-	•	Languages: Java (Intermediate), Python (Beginner)
-	•	Core Concepts: OOPs, Exception Handling, File I/O, Basic Data Structures
-	•	Tools: IntelliJ IDEA CE, VS Code, PyCharm CE, Git, GitHub
-	•	Other Interests: Data Science, Machine Learning, Backend Development
+	•	Languages: Java (Intermediate), Python (Intermediate, along with Data Science Libraries like Pandas, Matplotlib, etc.)
+	•	Tools: IntelliJ IDEA CE, PyCharm, Git, GitHub, Jupyter Notebooks, Kaggle
+	•	Interests: Data Science, Machine Learning, Backend Development
 
 🛠️ Projects I’ve Worked On
 
@@ -23,7 +22,9 @@ Hi there, I’m Shivansh Singh 👋
 	•	Games like Stone, Paper, Scissors; Number Guessing
 	•	Password Generator
 	•	Bank Application
- 	•	Library Management
+ 	•   Library Management
+	•   Solaris
+	
 
 	GUI application:
 	•	Alien Invasion Game in Python
@@ -36,6 +37,7 @@ Hi there, I’m Shivansh Singh 👋
 
 	•	📩 Email: shivansh.coder12@gmail.com
 	•	🌐 GitHub: @Shivansh779
+	•   Instagram: @Stickman3.2
 
 ⸻
 
