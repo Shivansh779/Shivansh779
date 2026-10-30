@@ -9,7 +9,7 @@ Hi there, I’m Shivansh Singh 👋
 🔥 Skills
 
 	•	Languages: Java (Intermediate), Python (Intermediate, along with Data Science Libraries like Pandas, Matplotlib, etc.)
-	•	Tools: IntelliJ IDEA CE, PyCharm, Git, GitHub, Jupyter Notebooks, Kaggle
+	•	Tools: VS Code, Git, GitHub, Jupyter Notebooks, Kaggle, OpenCode
 	•	Interests: Data Science, Machine Learning, Backend Development
 
 🛠️ Projects I’ve Worked On
@@ -28,6 +28,8 @@ Hi there, I’m Shivansh Singh 👋
 
 	GUI application:
 	•	Alien Invasion Game in Python
+	•	Solaris-Web
+	
 📚 Currently Learning
 
 	•	Building solid foundations in Python and Java
